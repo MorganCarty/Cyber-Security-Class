@@ -11,11 +11,12 @@ The files in this repository were used to configure the network depicted below.
  
 These files have been tested and used to generate an automated ELK Stack Deployment on Azure. They can be used to either recreate the entire deployment figured below. Otherwise, select portions of the YAML files may be used to install only certain pieces of it, for example, Filebeat and Metricbeat.
 
-  - [install-elk.yml](https://github.com/Mana-Pool/Project-One-ELK-Stack/blob/d197871ad20f7484ab11f1d0bbd6f6b5463a8a2a/Config%20Files/install-elk.yml)
-  - [filebeat-config.yml](https://github.com/Mana-Pool/Project-One-ELK-Stack/blob/d197871ad20f7484ab11f1d0bbd6f6b5463a8a2a/Config%20Files/filebeat-configuration.yml)
-  - [filebeat-playbook.yml](https://github.com/Mana-Pool/Project-One-ELK-Stack/blob/d197871ad20f7484ab11f1d0bbd6f6b5463a8a2a/Config%20Files/filebeat-playbook.yml)
-  - [metricbeat-config.yml](https://github.com/Mana-Pool/Project-One-ELK-Stack/blob/d197871ad20f7484ab11f1d0bbd6f6b5463a8a2a/Config%20Files/metricbeat-configuration.yml)
-  - [metricbeat-playbook.yml](https://github.com/Mana-Pool/Project-One-ELK-Stack/blob/d197871ad20f7484ab11f1d0bbd6f6b5463a8a2a/Config%20Files/metricbeat-playbook.yml)
+  - [install-elk.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/install-elk.yml)
+  - [filebeat-config.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/filebeat-configuration.yml)
+  - [filebeat-playbook.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/filebeat-playbook.yml)
+  - [metricbeat-config.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/metricbeat-configuration.yml)
+  - [metricbeat-playbook.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/metricbeat-playbook.yml)
+  - [ansible_config.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/ansible_config.yml)
  
 This document contains the following details:
 - Description of the Topology
