@@ -7,7 +7,8 @@ Cybersecurity ELK Stack Project
  
 The files in this repository were used to configure the network depicted below.
 
-![vNet Diagram](https://github.com/MorganCarty/Cyber-Security-Class/blob/fc9565e6fbd994616aa2d78f7834e85532782d29/Diagrams/Week%2013%20Project%201%20-%20Network%20Diagram.drawio)
+![vNet Diagram]()
+
  
 These files have been tested and used to generate an automated ELK Stack Deployment on Azure. They can be used to either recreate the entire deployment figured below. Otherwise, select portions of the YAML files may be used to install only certain pieces of it, for example, Filebeat and Metricbeat.
 
