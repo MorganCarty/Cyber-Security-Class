@@ -11,12 +11,13 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
-  - [install-elk.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/install-elk.yml)
-  - [filebeat-config.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/filebeat-configuration.yml)
-  - [filebeat-playbook.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/filebeat-playbook.yml)
-  - [metricbeat-config.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/metricbeat-configuration.yml)
-  - [metricbeat-playbook.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/metricbeat-playbook.yml)
-  - [ansible_config.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/86b304b485defd0d6d6f0a248699fd9a46c264a1/Ansible/ansible_config.yml)
+  - [install-elk.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/c529260a71124b71521f24eeb38a13e70d9512ed/Ansible/Ansible%20YAML%20Scripts/install-elk.yml)
+  - [filebeat-config.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/c529260a71124b71521f24eeb38a13e70d9512ed/Ansible/Ansible%20YAML%20Scripts/filebeat-configuration.yml)
+  - [filebeat-playbook.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/c529260a71124b71521f24eeb38a13e70d9512ed/Ansible/Ansible%20YAML%20Scripts/filebeat-playbook.yml)
+  - [metricbeat-config.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/c529260a71124b71521f24eeb38a13e70d9512ed/Ansible/Ansible%20YAML%20Scripts/metricbeat-configuration.yml)
+  - [metricbeat-playbook.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/c529260a71124b71521f24eeb38a13e70d9512ed/Ansible/Ansible%20YAML%20Scripts/metricbeat-playbook.yml)
+  - [ansible_config.yml](https://github.com/MorganCarty/Cyber-Security-Class/blob/c529260a71124b71521f24eeb38a13e70d9512ed/Ansible/Ansible%20YAML%20Scripts/ansible-playbook.yml
+)
  
 This document contains the following details:
 - Description of the Topology
