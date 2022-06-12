@@ -98,7 +98,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
  
-![vNet Diagram](https://github.com/MorganCarty/Cyber-Security-Class/blob/4ed8d7591674d99485c3786828201c6703a6a98a/Ansible/Screenshots%20of%20Ansible%20YAML%20)
+(https://github.com/MorganCarty/Cyber-Security-Class/blob/4ed8d7591674d99485c3786828201c6703a6a98a/Ansible/Screenshots%20of%20Ansible%20YAML%20)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
