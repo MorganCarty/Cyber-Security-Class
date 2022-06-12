@@ -140,6 +140,8 @@ _TODO: Answer the following questions to fill in the blanks:_
 - _Which URL do you navigate to in order to check that the ELK server is running?
 - http://20.227.138.89:5601/app/kibana
 
+![vNet Diagram](https://github.com/MorganCarty/Cyber-Security-Class/blob/9bb056f47a106de20d31c913ab33db603a5a88ce/Diagrams/Kibana/Kibana%20Centra.png)
+
 - As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc.
 
 First the user must connect to the Jump Box
